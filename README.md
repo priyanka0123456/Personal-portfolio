@@ -10,19 +10,8 @@ A stunning **3D web portfolio** built using **React.js** and **Three.js** to sho
 - 🌗 Dark/light theme toggle
 - ✨ Smooth scroll and UI transitions
 
-## 📂 Folder Structure
 
 
-## 🖼️ Screenshots
-
-### 1. 🏠 Home Page  
-![Home Page](./screenshots/home.png)
-
-### 2. 💼 Projects Section  
-![Projects Page](./screenshots/projects.png)
-
-### 3. 📱 Responsive View  
-![Mobile View](./screenshots/mobile.png)
 
 ## 🛠️ Technology Used
 
